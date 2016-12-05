@@ -18,3 +18,13 @@ class Car {
         
     }
 }
+
+
+class Garage {
+   
+   var size : Double
+   
+   init(size: Double){
+   self.size = size
+   }
+}
